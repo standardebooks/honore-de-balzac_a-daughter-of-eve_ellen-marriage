@@ -11,3 +11,13 @@ footer{
 	font-variant: small-caps;
 }
 /* end of letters */
+
+/* custom */
+q{
+	font-style: italic;
+}
+
+#dedication header{
+	font-style: italic;
+}
+/* end of custom */
