@@ -38,16 +38,16 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two sisters experience very different marriages, and one is saved from a disastrous liaison.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Marie-Angélique and Marie-Eugénie are two sisters raised in a very strict household, who marry very different men: the former a cutthroat banker, the latter a man who has given his wife everything she needs but money, but who lacks any adventure in his spirit. In short, he is boring. This leads Eugénie to some bad decisions, and it will take quick thinking and bold action if she is to be saved from certain disaster.&lt;/p&gt;
+			&lt;p&gt;Although one of &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac’s&lt;/a&gt; shorter novels, &lt;i&gt;A Daughter of Eve&lt;/i&gt; is full of the richly-drawn characters that are his hallmark, and demonstrates less cynicism than is common in his &lt;a href="https://standardebooks.org/collections/the-human-comedy"&gt;Human Comedy&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/daughterofevelet00balziala</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Diacritics were missing from the transcription and had to be added manually.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Daughter_of_Eve</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_a-daughter-of-eve_ellen-marriage</meta>
 		<dc:creator id="author">Honoré de Balzac</dc:creator>
 		<meta property="file-as" refines="#author">Balzac, Honoré de</meta>
