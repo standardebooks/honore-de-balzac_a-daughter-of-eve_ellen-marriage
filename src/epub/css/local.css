@@ -17,7 +17,15 @@ q{
 	font-style: italic;
 }
 
-#dedication header{
+#dedication{
+	margin-top: 20vh;
+}
+
+#dedication > header{
 	font-style: italic;
+}
+
+#dedication > header + *{
+	margin-top: 1em;
 }
 /* end of custom */
