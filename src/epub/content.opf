@@ -38,6 +38,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Human Comedy</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
 		<dc:description id="description">Two sisters experience very different marriages, and one is saved from a disastrous liaison.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Marie-Angélique and Marie-Eugénie are two sisters raised in a very strict household, who marry very different men: the former a cutthroat banker, the latter a man who has given his wife everything she needs save money, but who lacks any adventure in his spirit. In short, he’s boring. This leads Marie-Eugénie to make some bad decisions, and it will take quick thinking and bold action if she is to be saved from certain disaster.&lt;/p&gt;
