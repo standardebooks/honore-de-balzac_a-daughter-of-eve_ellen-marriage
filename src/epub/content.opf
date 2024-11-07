@@ -50,8 +50,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/daughterofevelet00balziala</dc:source>
 		<meta property="se:production-notes">Diacritics were missing from the transcription and had to be added manually.</meta>
-		<meta property="se:word-count">45679</meta>
-		<meta property="se:reading-ease.flesch">67.59</meta>
+		<meta property="se:word-count">45678</meta>
+		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_a-daughter-of-eve_ellen-marriage</meta>
 		<dc:creator id="author">Honoré de Balzac</dc:creator>
 		<meta property="file-as" refines="#author">Balzac, Honoré de</meta>
